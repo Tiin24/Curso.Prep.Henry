@@ -1,0 +1,9 @@
+Variables = Las Variables son contenedores al cual se le asigna un valor (string , numero , etc).
+
+String = Las estring son lineas de caracteres encerradas por comillas ej "Hola" , "numero2"
+
+Funciones (argumentos, `return`) = Las funcione siben para ejecutar un codigo las veces que quieras , los argumentos definen l valor de los parametros y return es el codigo que se utiliza para devolver la funcion 
+
+Declaraciones = las declaraciones sirven para declarar parametros a las funciones 
+
+valores Booleanos = define basicamente si la funcion es verdadera o falsa.
