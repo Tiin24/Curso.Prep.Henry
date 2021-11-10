@@ -1,0 +1,1 @@
+Arrays = un array es un tipo de contenedor que encierra cualquier tipo de variable
